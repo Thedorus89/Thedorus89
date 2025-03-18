@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thedorus89
-- 👀 I’m interested in .Net, WPF, C#
+- 👀 I’m interested in .Net, WPF, C#, Typescript, NestJs
 - 🌱 I’m currently learning AI and Machine Learning
 - 📫 How to reach me by send an email to theodoredanang@gmail.com
 <!---
